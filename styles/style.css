@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color:rgb(29, 29, 29);
+}
+
+form {
+    background-color: gray;
+    max-width: 500px;
+    border: 20px;
+    border-color: white;
+    border-radius: 20px;
+}
+img {
+    max-height: 300px;
+}
+
+input{
+    background-color:rgb(214, 213, 211);
+}
+select{
+    background-color:rgb(214, 213, 211);
+}
+
+button{
+    background-color:rgb(214, 213, 211);
+}
